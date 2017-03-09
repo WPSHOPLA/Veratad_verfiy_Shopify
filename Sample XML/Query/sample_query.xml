@@ -1,0 +1,22 @@
+<query>
+<user>omitted</user>
+<pass>omitted</pass>
+<function>age</function>
+<output-type>4.3b</output-type>
+<client-side>
+<first_name>Barb</first_name>
+<last_name>Miller</last_name>
+</client-side>
+<fn>Barb</fn>
+<ln>Miller</ln>
+<bill>
+<addr>246 Cimarron Rd</addr>
+<city>Lombard</city>
+<state>IL</state>
+<zip>60148</zip>
+</bill>
+<last4>698021458</last4>
+<dob>02241983</dob>
+<dob-type>MMDDYYYY</dob-type>
+</query>
+
